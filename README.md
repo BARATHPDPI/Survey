@@ -49,6 +49,6 @@ People
 
 Tech stack
 ----------
-1. Front-end ----> React JS
-2. Back-end ----> Spring Boot (Java)
-3. Dataase ----> MySQL
+1. Front-end ----> HTML, CSS and JS
+2. Back-end ----> PHP
+3. Database ----> MySQL
